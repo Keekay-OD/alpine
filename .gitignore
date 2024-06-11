@@ -1,5 +1,9 @@
-~/.etc
-
+etc/
+var/
+bin/
+lib/
+opt/
+sbin/
 etc/ssl/cert.pem
 etc/ssl/ct_log_list.cnf
 etc/ssl/ct_log_list.cnf.dist
